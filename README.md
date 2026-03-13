@@ -6,6 +6,7 @@
 - Andres Felipe Serna Carvajal
 - Tomas Alejandro Buritica Alvarez
 - Wilder Andres Quintero Posada
+- Edinson Stiben Sinitave Marin
 
 ## Descripción del caso
 
